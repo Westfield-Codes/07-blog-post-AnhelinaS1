@@ -38,4 +38,13 @@ html {
    vertical-align: middle;
    align-items: center; 
  }
+ .flex-row {
+  display:flex;
+   vertical-align: middle;
+   align-items: center;
+ }
+
+ .flex-row p {
+  margin:0;
+ }
 
